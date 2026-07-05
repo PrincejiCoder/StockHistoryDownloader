@@ -10,7 +10,7 @@ A polished, professional-quality Windows desktop utility for searching, previewi
 
 **Full Application View** — search, fetch, preview data, and export to CSV or JSON in one clean window:
 
-![Full Application View](assets/screenshots/full_view.png)
+![Full Application View](assets/screenshots/main-window.png.png)
 
 ## Features
 
@@ -46,20 +46,9 @@ StockDownloader/
    ```bash
    python main.py
    ```
+## Download
 
-## Building Standalone Executable (.exe)
-
-You can package the application into a single standalone Windows executable using PyInstaller.
-
-1. Install PyInstaller:
-   ```bash
-   pip install pyinstaller
-   ```
-2. Double-click `build.bat` or run:
-   ```bash
-   build.bat
-   ```
-The compiled executable will be located in the `dist/` directory.
+**[Download the latest version](https://github.com/PrincejiCoder/StockHistoryDownloader/releases/latest)**
 
 ## License
 
