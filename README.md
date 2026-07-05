@@ -10,7 +10,7 @@ A polished, professional-quality Windows desktop utility for searching, previewi
 
 **Full Application View** — search, fetch, preview data, and export to CSV or JSON in one clean window:
 
-![Full Application View](assets/screenshots/main-window.png.png)
+![Full Application View](assets/screenshots/main-window.png)
 
 ## Features
 
