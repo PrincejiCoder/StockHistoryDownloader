@@ -1,0 +1,7 @@
+- Yahoo Finance → Historical prices + company fundamentals
+- Polygon.io → Real-time stock market data
+- Alpaca → Brokerage API for paper/live trading
+- Finnhub → News, financials, insider activity
+- Alpha Vantage → Technical indicators and market data
+- Twelve Data → Stocks, forex, crypto, and technical indicators
+- Binance API → Cryptocurrency market data and trading
